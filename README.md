@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Sydney based Software Developer, Student, Tutor and avid [Runner](https://www.strava.com/athletes/56465808) / Netballer. 
+I'm a Sydney based Software Developer, Student, Tutor and avid [Runner](https://www.strava.com/athletes/56465808) / Netballer. Most of my professional work now takes place on GitLab - Adieu contributions graph...
 ### Statistics
 <a href="https://github.com/Hc747/Hc747">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hc747&count_private=true&show_icons=true&theme=tokyonight" />
